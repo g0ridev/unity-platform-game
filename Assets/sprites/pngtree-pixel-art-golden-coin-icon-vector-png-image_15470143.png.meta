@@ -1,0 +1,2366 @@
+fileFormatVersion: 2
+guid: 53ca1f3b3acae2f4198347ef6596b429
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4824485828098155793
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_0
+  - first:
+      213: 7222158717207899047
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_1
+  - first:
+      213: -3304256384350080542
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_2
+  - first:
+      213: -4011909208299360959
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_3
+  - first:
+      213: -3179008199712719935
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_4
+  - first:
+      213: -4692111804517991874
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_5
+  - first:
+      213: 3669975372366248725
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_6
+  - first:
+      213: -3235510914909898523
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_7
+  - first:
+      213: 8478777443321143117
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_8
+  - first:
+      213: -3263664384267360260
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_9
+  - first:
+      213: 4807405211791338453
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_10
+  - first:
+      213: -3214325278389644966
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_11
+  - first:
+      213: 6167173492779265690
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_12
+  - first:
+      213: 588684082304200352
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_13
+  - first:
+      213: -5376980405048854018
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_14
+  - first:
+      213: -2724946888680765100
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_15
+  - first:
+      213: 4645169748977283850
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_16
+  - first:
+      213: 6739017872362010221
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_17
+  - first:
+      213: 2136275466418996946
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_18
+  - first:
+      213: 989835861834767685
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_19
+  - first:
+      213: 3475502152715680526
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_20
+  - first:
+      213: 1421047803657284646
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_21
+  - first:
+      213: -4443728570675177306
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_22
+  - first:
+      213: 8636706654868100143
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_23
+  - first:
+      213: 6802923177575650724
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_24
+  - first:
+      213: -7135057120995652462
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_25
+  - first:
+      213: 4082985433835975137
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_26
+  - first:
+      213: 4365206032052910659
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_27
+  - first:
+      213: -4875146969938210641
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_28
+  - first:
+      213: -2407781525428843173
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_29
+  - first:
+      213: -4653278034049785725
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_30
+  - first:
+      213: -5248569679368562915
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_31
+  - first:
+      213: -2322814412781859032
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_32
+  - first:
+      213: -6335173657048912741
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_33
+  - first:
+      213: -8603285600798986970
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_34
+  - first:
+      213: 7309050759199668882
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_35
+  - first:
+      213: -7089042160364951303
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_36
+  - first:
+      213: 8479374773683209323
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_37
+  - first:
+      213: -1498032061063328124
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_38
+  - first:
+      213: 4282875499773834691
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_39
+  - first:
+      213: -6850390494279008311
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_40
+  - first:
+      213: -623717081133917851
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_41
+  - first:
+      213: 3457854708244200290
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_42
+  - first:
+      213: -1070447266954639053
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_43
+  - first:
+      213: -4203778310375769755
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_44
+  - first:
+      213: 2122567730949029273
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_45
+  - first:
+      213: 1912737571753845704
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_46
+  - first:
+      213: -5429898520876379396
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_47
+  - first:
+      213: -4529255403168793597
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_48
+  - first:
+      213: 1283016417174698014
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_49
+  - first:
+      213: -4234706834058591954
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_50
+  - first:
+      213: -2170216020924054061
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_51
+  - first:
+      213: 916871483061339004
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_52
+  - first:
+      213: 3475811254628076710
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_53
+  - first:
+      213: -4905339351590090680
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_54
+  - first:
+      213: -412762503482391129
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_55
+  - first:
+      213: -4746191046400586333
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_56
+  - first:
+      213: 4064674480347299596
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_57
+  - first:
+      213: -2170656652995502159
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_58
+  - first:
+      213: -6984411788456162998
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_59
+  - first:
+      213: -1384483920104552167
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_60
+  - first:
+      213: 7840186086405630097
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_61
+  - first:
+      213: 5219249045572394434
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_62
+  - first:
+      213: 2586270464344624373
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_63
+  - first:
+      213: 9126111894243213635
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_64
+  - first:
+      213: 6271436852088664462
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_65
+  - first:
+      213: -3287510876313490022
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_66
+  - first:
+      213: 6454834504304781060
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_67
+  - first:
+      213: 8448386301930140249
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_68
+  - first:
+      213: 5726737685062693973
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_69
+  - first:
+      213: -3626077824097308428
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_70
+  - first:
+      213: 1775676629588164489
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_71
+  - first:
+      213: -5587992650362629194
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_72
+  - first:
+      213: 5493941893620893933
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_73
+  - first:
+      213: -6748492546069723134
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_74
+  - first:
+      213: -628296533289512703
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_75
+  - first:
+      213: 5111294242590586283
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_76
+  - first:
+      213: -6056012036658464094
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_77
+  - first:
+      213: -3212919556422289021
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_78
+  - first:
+      213: 5893390671749531071
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_79
+  - first:
+      213: -1237796658777615986
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_80
+  - first:
+      213: -5690647926140711588
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_81
+  - first:
+      213: 4604049272298109443
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_82
+  - first:
+      213: -3618798869295925438
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_83
+  - first:
+      213: -7936518843246846399
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_84
+  - first:
+      213: -8157404391098011581
+    second: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_85
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea9d4853bbfb0db0800000000000000
+      internalID: -4824485828098155793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 2366
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abeaa2b6134a3460800000000000000
+      internalID: 7222158717207899047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_2
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e13ffb335ce422d0800000000000000
+      internalID: -3304256384350080542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_3
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14da230c4d5d258c0800000000000000
+      internalID: -4011909208299360959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_4
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 2366
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cbb11ea2e4e1e3d0800000000000000
+      internalID: -3179008199712719935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_5
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ab9457c2542eeb0800000000000000
+      internalID: -4692111804517991874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_6
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51b7254282f5ee230800000000000000
+      internalID: 3669975372366248725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_7
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 2366
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e875e127f72913d0800000000000000
+      internalID: -3235510914909898523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_8
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f50c6892baaa570800000000000000
+      internalID: 8478777443321143117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_9
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 2246
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf766adb88225b2d0800000000000000
+      internalID: -3263664384267360260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_10
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 2366
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db2f24c19557b240800000000000000
+      internalID: 4807405211791338453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_11
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 2390
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51d605803c6463d0800000000000000
+      internalID: -3214325278389644966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_12
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 2397
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e2059dd93369550800000000000000
+      internalID: 6167173492779265690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 2308
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae2baacd0d6b2800800000000000000
+      internalID: 588684082304200352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_14
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9b3d06fc02165b0800000000000000
+      internalID: -5376980405048854018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_15
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 2308
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 459806cfd3b0f2ad0800000000000000
+      internalID: -2724946888680765100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_16
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a037e298645f67040800000000000000
+      internalID: 4645169748977283850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_17
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 2308
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d667521dc0dc58d50800000000000000
+      internalID: 6739017872362010221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_18
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d6494ed73395ad10800000000000000
+      internalID: 2136275466418996946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_19
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 2308
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d9a92d87a9cbd00800000000000000
+      internalID: 989835861834767685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_20
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 2345
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b39bc3bc67b3030800000000000000
+      internalID: 3475502152715680526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_21
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 2247
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c67d9c27398b310800000000000000
+      internalID: 1421047803657284646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_22
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2247
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8d6aaa864b452c0800000000000000
+      internalID: -4443728570675177306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_23
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 2247
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f245aa081febbd770800000000000000
+      internalID: 8636706654868100143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_24
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 2247
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a51ba92696d86e50800000000000000
+      internalID: 6802923177575650724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_25
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2086
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ccee20a5f2bfc90800000000000000
+      internalID: -7135057120995652462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_26
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 2111
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e133e69e9da9a830800000000000000
+      internalID: 4082985433835975137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_27
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 111
+        width: 1961
+        height: 2126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34af7ef12c3549c30800000000000000
+      internalID: 4365206032052910659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_28
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1914
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0d20519aff75cb0800000000000000
+      internalID: -4875146969938210641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_29
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2028
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5dc018a577d59ed0800000000000000
+      internalID: -2407781525428843173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_30
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2066
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380a55b384c3c6fb0800000000000000
+      internalID: -4653278034049785725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_31
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1968
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d17d95a4fa55927b0800000000000000
+      internalID: -5248569679368562915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_32
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1999
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82fcafe2994b3cfd0800000000000000
+      internalID: -2322814412781859032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_33
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 1969
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cef25cf11f418a0800000000000000
+      internalID: -6335173657048912741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_34
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1645
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62da427045dfa9880800000000000000
+      internalID: -8603285600798986970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_35
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1765
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a3563c0f6fe6560800000000000000
+      internalID: 7309050759199668882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_36
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1789
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f8eda9e6b9ae9d90800000000000000
+      internalID: -7089042160364951303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_37
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1796
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64cbc65e6acca570800000000000000
+      internalID: 8479374773683209323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_38
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 1707
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e8c2207cbe53be0800000000000000
+      internalID: -1498032061063328124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_39
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 1744
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c53e3d4394df6b30800000000000000
+      internalID: 4282875499773834691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_40
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1485
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf79cfe3268ee0a0800000000000000
+      internalID: -6850390494279008311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_41
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1510
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5695baa8e9c1857f0800000000000000
+      internalID: -623717081133917851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_42
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 1313
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bbec16984ccff20800000000000000
+      internalID: 3457854708244200290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_43
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1427
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3398166d1e10521f0800000000000000
+      internalID: -1070447266954639053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_44
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1465
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5697f8736ed29a5c0800000000000000
+      internalID: -4203778310375769755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_45
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1367
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d7ceefa10e47d10800000000000000
+      internalID: 2122567730949029273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1398
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c36ee8ffa86b8a10800000000000000
+      internalID: 1912737571753845704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_47
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 1368
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf29eb8601025a4b0800000000000000
+      internalID: -5429898520876379396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_48
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1044
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30cfa15353ad421c0800000000000000
+      internalID: -4529255403168793597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_49
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 1164
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1831ba32a03ec110800000000000000
+      internalID: 1283016417174698014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_50
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 1188
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21c404229c4b35c0800000000000000
+      internalID: -4234706834058591954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_51
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 1195
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5c5faf608d1e1e0800000000000000
+      internalID: -2170216020924054061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_52
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 1106
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c738e8c81c169bc00800000000000000
+      internalID: 916871483061339004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_53
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 1143
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac4962abef8c3030800000000000000
+      internalID: 3475811254628076710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_54
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 884
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8484abd69dbbcebb0800000000000000
+      internalID: -4905339351590090680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_55
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 909
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5c453a0b2954af0800000000000000
+      internalID: -412762503482391129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_56
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 712
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad4723c364222eb0800000000000000
+      internalID: -4746191046400586333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_57
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 826
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f32b087ef986830800000000000000
+      internalID: 4064674480347299596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_58
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 864
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf5dd4564740e1e0800000000000000
+      internalID: -2170656652995502159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_59
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 766
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a490500cb72621f90800000000000000
+      internalID: -6984411788456162998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_60
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 797
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9198de0c53359cce0800000000000000
+      internalID: -1384483920104552167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_61
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 767
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198ea2dd4bfedcc60800000000000000
+      internalID: 7840186086405630097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_62
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 443
+        width: 248
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd93abaa5f7e6840800000000000000
+      internalID: 5219249045572394434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_63
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 563
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc8850e84744e320800000000000000
+      internalID: 2586270464344624373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_64
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 587
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34185d46a6676ae70800000000000000
+      internalID: 9126111894243213635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_65
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 594
+        width: 90
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81f908e69e980750800000000000000
+      internalID: 6271436852088664462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_66
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 505
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9de916a64a6062d0800000000000000
+      internalID: -3287510876313490022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_67
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 542
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407650158cd249950800000000000000
+      internalID: 6454834504304781060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_68
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 283
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95272d38492be3570800000000000000
+      internalID: 8448386301930140249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_69
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 308
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55431004595797f40800000000000000
+      internalID: 5726737685062693973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_70
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f032c64e659dadc0800000000000000
+      internalID: -3626077824097308428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_71
+      rect:
+        serializedVersion: 2
+        x: 2135
+        y: 111
+        width: 255
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98fb0969c7874a810800000000000000
+      internalID: 1775676629588164489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_72
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 225
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b354ab7a467372b0800000000000000
+      internalID: -5587992650362629194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_73
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 263
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de809e94b076e3c40800000000000000
+      internalID: 5493941893620893933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_74
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 165
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208842ec8c98852a0800000000000000
+      internalID: -6748492546069723134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_75
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 196
+        width: 41
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1015bafb1a7d747f0800000000000000
+      internalID: -628296533289512703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_76
+      rect:
+        serializedVersion: 2
+        x: 2472
+        y: 166
+        width: 28
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba57c186807fee640800000000000000
+      internalID: 5111294242590586283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_77
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa7b778329b4fba0800000000000000
+      internalID: -6056012036658464094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_78
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3893b8bafaa6963d0800000000000000
+      internalID: -3212919556422289021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_79
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb54b38679789c150800000000000000
+      internalID: 5893390671749531071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_80
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8115693f7672dee0800000000000000
+      internalID: -1237796658777615986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_81
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5dc19c8cd1c601b0800000000000000
+      internalID: -5690647926140711588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_82
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a79bb7b6ed4ef30800000000000000
+      internalID: 4604049272298109443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_83
+      rect:
+        serializedVersion: 2
+        x: 1809
+        y: 0
+        width: 96
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247f7020a9177cdc0800000000000000
+      internalID: -3618798869295925438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_84
+      rect:
+        serializedVersion: 2
+        x: 2288
+        y: 0
+        width: 35
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ed31b5922dbd190800000000000000
+      internalID: -7936518843246846399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_85
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 0
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34034631de31bce80800000000000000
+      internalID: -8157404391098011581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_0: -4824485828098155793
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_1: 7222158717207899047
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_10: 4807405211791338453
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_11: -3214325278389644966
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_12: 6167173492779265690
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_13: 588684082304200352
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_14: -5376980405048854018
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_15: -2724946888680765100
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_16: 4645169748977283850
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_17: 6739017872362010221
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_18: 2136275466418996946
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_19: 989835861834767685
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_2: -3304256384350080542
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_20: 3475502152715680526
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_21: 1421047803657284646
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_22: -4443728570675177306
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_23: 8636706654868100143
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_24: 6802923177575650724
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_25: -7135057120995652462
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_26: 4082985433835975137
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_27: 4365206032052910659
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_28: -4875146969938210641
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_29: -2407781525428843173
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_3: -4011909208299360959
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_30: -4653278034049785725
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_31: -5248569679368562915
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_32: -2322814412781859032
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_33: -6335173657048912741
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_34: -8603285600798986970
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_35: 7309050759199668882
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_36: -7089042160364951303
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_37: 8479374773683209323
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_38: -1498032061063328124
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_39: 4282875499773834691
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_4: -3179008199712719935
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_40: -6850390494279008311
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_41: -623717081133917851
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_42: 3457854708244200290
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_43: -1070447266954639053
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_44: -4203778310375769755
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_45: 2122567730949029273
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_46: 1912737571753845704
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_47: -5429898520876379396
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_48: -4529255403168793597
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_49: 1283016417174698014
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_5: -4692111804517991874
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_50: -4234706834058591954
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_51: -2170216020924054061
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_52: 916871483061339004
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_53: 3475811254628076710
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_54: -4905339351590090680
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_55: -412762503482391129
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_56: -4746191046400586333
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_57: 4064674480347299596
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_58: -2170656652995502159
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_59: -6984411788456162998
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_6: 3669975372366248725
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_60: -1384483920104552167
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_61: 7840186086405630097
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_62: 5219249045572394434
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_63: 2586270464344624373
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_64: 9126111894243213635
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_65: 6271436852088664462
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_66: -3287510876313490022
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_67: 6454834504304781060
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_68: 8448386301930140249
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_69: 5726737685062693973
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_7: -3235510914909898523
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_70: -3626077824097308428
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_71: 1775676629588164489
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_72: -5587992650362629194
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_73: 5493941893620893933
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_74: -6748492546069723134
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_75: -628296533289512703
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_76: 5111294242590586283
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_77: -6056012036658464094
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_78: -3212919556422289021
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_79: 5893390671749531071
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_8: 8478777443321143117
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_80: -1237796658777615986
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_81: -5690647926140711588
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_82: 4604049272298109443
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_83: -3618798869295925438
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_84: -7936518843246846399
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_85: -8157404391098011581
+      pngtree-pixel-art-golden-coin-icon-vector-png-image_15470143_9: -3263664384267360260
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
