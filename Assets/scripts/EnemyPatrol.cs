@@ -2,22 +2,24 @@ using UnityEngine;
 
 public class EnemyPatrol : MonoBehaviour
 {
-    public float speed = 2f;
+    public float speed;
     public float distance = 3f; // How far to move
     public bool moveHorizontal = true; // true = left/right, false = up/down
-    
+
     private Vector3 startPos;
     private bool movingForward = true;
 
     void Start()
     {
+        GameSettings.Load();
+        speed = GameSettings.BugSpeed;
         startPos = transform.position;
     }
 
     void Update()
     {
         float movement;
-        
+
         if (moveHorizontal)
         {
             // Move left/right
@@ -37,7 +39,7 @@ public class EnemyPatrol : MonoBehaviour
 
         // Move the enemy
         float direction = movingForward ? 1 : -1;
-        
+
         if (moveHorizontal)
             transform.position += new Vector3(speed * direction * Time.deltaTime, 0, 0);
         else

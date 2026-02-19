@@ -5,6 +5,7 @@ public class MainMenuController : MonoBehaviour
 {
     void Start()
     {
+        // Load saved settings on app start
         GameSettings.Load();
     }
 
@@ -13,11 +14,13 @@ public class MainMenuController : MonoBehaviour
         SceneManager.LoadScene("Game");
     }
 
+    public void OpenSettings()
+    {
+        SceneManager.LoadScene("Settings");
+    }
+
     public void QuitGame()
     {
-        Application.Quit();
-        #if UNITY_EDITOR
-        UnityEditor.EditorApplication.isPlaying = false;
-        #endif
+        Application.Quit(); // Works in build, not in editor
     }
 }
