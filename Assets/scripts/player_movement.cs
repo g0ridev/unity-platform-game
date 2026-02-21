@@ -4,6 +4,7 @@ public class player_movement : MonoBehaviour
 {
     [SerializeField] private float speed;
     private Rigidbody2D body;
+    public Animator animator;  // Animation Setup
 
     void Start()
     {
@@ -23,5 +24,9 @@ public class player_movement : MonoBehaviour
 
         if (Input.GetKey(KeyCode.Space))
             body.linearVelocity = new Vector2(body.linearVelocity.x, speed);
+
+
+    animator.SetFloat("yVelocity", body.linearVelocity.y);
+        animator.SetFloat("magnitude", body.linearVelocity.magnitude);
     }
 }
