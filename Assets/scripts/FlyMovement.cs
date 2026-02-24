@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class EnemyPatrol : MonoBehaviour
+public class FlyMovement : MonoBehaviour
 {
     public float speed;
     public float distance = 3f; // How far to move
