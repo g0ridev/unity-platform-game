@@ -16,7 +16,7 @@ Spacebar to jump
 Avoid enemies and reach the portal at the end of the level
 
 Changes & Updates
-
+(2/24/26)
 Revamped tilemap and map layout
 Improved jump feel and restricted infinite jumping
 Added horizontal and vertical enemy movement
@@ -24,6 +24,13 @@ Player animations implemented
 Player camera tracking added
 Improved background visuals
 Settings scene added
+
+Plan: 
+1.) Organize Scripts and assets in general
+2.) Add sounds (RB)
+3.) Enemy animations (RB)
+4.) Better Background
+5.) Background animations
 
 Team
 
