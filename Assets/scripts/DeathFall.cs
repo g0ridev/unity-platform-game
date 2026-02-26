@@ -7,8 +7,8 @@ public class DeathZone : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             Debug.Log("Player fell into death zone!");
-            GameManager.instance.ShowLoss();
-            Destroy(other.gameObject); // Destroy player
+            GameManager.TriggerLoss();
+            Destroy(other.gameObject); //Now we trigger an event for the manager to handle
         }
     }
 }

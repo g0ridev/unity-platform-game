@@ -9,7 +9,7 @@ public class Portal : MonoBehaviour
         if (other.CompareTag("Player"))
         {
             Debug.Log("Player touched portal - showing win screen!");
-            GameManager.instance.ShowWin();
-        }
+            GameManager.TriggerWin(); //Now we trigger an event for the manager to handle
+    }
     }
 }
